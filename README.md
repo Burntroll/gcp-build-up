@@ -25,7 +25,7 @@ In this project, an organizational structure table is built and then a monthly b
 
 **ORGANIZATIONAL STRUCTURE**
 
-![table](Organizational Structure.jpg)
+![table](organizational-structure.jpg)
 
 
 
