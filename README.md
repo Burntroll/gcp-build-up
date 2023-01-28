@@ -4,9 +4,8 @@
 
 ---
 
-In this project, an organizational structure table is built and then a monthly budget is set with some triggers for the indicated email.
-
-
+In this project, an organizational structure table is built and then a monthly budget is defined with some triggers for the indicated email.
+Next, a BigQuery export is set up that sends the billing data to a BigQuery dataset.
 
 ### Tools
 
@@ -14,6 +13,8 @@ In this project, an organizational structure table is built and then a monthly b
 
 * Draw.io
 * Google GCP - Billing and Monitoring
+* Google GCP - Billing Export
+* Google GCP - BigQuery
 
 
 
@@ -23,7 +24,9 @@ In this project, an organizational structure table is built and then a monthly b
 
 
 
-**ORGANIZATIONAL STRUCTURE**
+### ORGANIZATIONAL STRUCTURE
+
+
 
 ![table](organizational-structure.jpg)
 
@@ -31,7 +34,9 @@ In this project, an organizational structure table is built and then a monthly b
 
 
 
-**BILLING ACCOUNT - BUDGETS AND ALERTS**
+### BILLING ACCOUNT - BUDGETS AND ALERTS
+
+
 
 ![screen1](budget-screen-1.png)
 
@@ -40,3 +45,19 @@ In this project, an organizational structure table is built and then a monthly b
 ![screen3](budget-screen-3.png)
 
 ![screen4](budget-completed.png)
+
+
+
+### BILLING EXPORT - BIGQUERY
+
+
+
+![screen-query](dataset-export-1.png)
+
+![screen-query](dataset-export-2.png)
+
+![screen-query](dataset-export-3.png)
+
+
+
+![screen-query](dataset-export-4.png)
