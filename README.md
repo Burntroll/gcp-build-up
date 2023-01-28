@@ -7,16 +7,20 @@
 In this project, an organizational structure table is built and then a monthly budget is defined with some triggers for the indicated email.
 Next, a BigQuery export is set up that sends the billing data to a BigQuery dataset.
 
-In the end it shows how to make the dashboard customization
+It also shows how to make the dashboard customization
+
+And in the end it shows how to run an application on Google Powershell using App Engine
 
 ### Tools
 
 ---
 
-* Draw.io
-* Google GCP - Billing and Monitoring
-* Google GCP - Billing Export
-* Google GCP - BigQuery
+* [Draw.io](#ORGANIZATIONAL STRUCTURE)
+* [Google GCP - Billing and Monitoring](#BILLING ACCOUNT - BUDGETS AND ALERTS)
+* [Google GCP - Billing Export](#BILLING EXPORT - BIGQUERY)
+* [Google GCP - BigQuery](#BILLING EXPORT - BIGQUERY)
+* [Google Powershell](#POWERSHELL - GOOGLE APP ENGINE RUNNING quarkus-helloworld)
+* [Google App Engine](#POWERSHELL - GOOGLE APP ENGINE RUNNING quarkus-helloworld)
 
 
 
@@ -71,3 +75,15 @@ In the end it shows how to make the dashboard customization
 ### DASHBOARD CUSTOMIZATION
 
 ![screen-customization](customization.png)
+
+
+
+
+
+### POWERSHELL - GOOGLE APP ENGINE RUNNING quarkus-helloworld
+
+![running-application](deploy-powershell.png)
+
+
+
+![running-application](deploy-powershell2.png)
