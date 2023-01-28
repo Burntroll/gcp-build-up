@@ -7,6 +7,8 @@
 In this project, an organizational structure table is built and then a monthly budget is defined with some triggers for the indicated email.
 Next, a BigQuery export is set up that sends the billing data to a BigQuery dataset.
 
+In the end it shows how to make the dashboard customization
+
 ### Tools
 
 ---
@@ -61,3 +63,11 @@ Next, a BigQuery export is set up that sends the billing data to a BigQuery data
 
 
 ![screen-query](dataset-export-4.png)
+
+
+
+
+
+### DASHBOARD CUSTOMIZATION
+
+![screen-customization](customization.png)
